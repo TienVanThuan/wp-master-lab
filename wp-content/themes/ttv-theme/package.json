@@ -1,0 +1,3 @@
+"scripts": {
+  "dev": "sass assets/scss:assets/css --watch --style=compressed"
+}
