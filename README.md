@@ -17,6 +17,10 @@ Before starting, ensure you have these installed:
 
 Follow these steps to get your environment running:
 
+0. **Clone project:**
+
+https://github.com/TienVanThuan/wp-master-lab
+
 1.  **Configure Environment:**
 
     ```bash
